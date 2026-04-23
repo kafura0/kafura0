@@ -1,15 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Joan Kabura</h1>
+<h3 align="center">Building AI-powered systems that improve business efficiency 🚀</h3>
 
-<!--
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Background in **Computer Science & Artificial Intelligence**
+- 🔍 Focused on **Data, AI, and Automation**
+- ⚡ Building tools that **solve real business problems**
+- 💡 Currently exploring:
+  - AI-powered analytics platforms
+  - Automation-as-a-Service (AaaS)
+  - Multi-tenant SaaS systems
+- 🌍 Based in Kenya | Open to **remote & freelance opportunities**
+
+---
+
+## 🚀 What I Do
+
+- 📊 Turn raw data into **actionable insights**
+- 🤖 Build **AI + NLP systems**
+- ⚙️ Automate workflows using modern tools (APIs, scraping, pipelines)
+- 🧩 Design scalable **SaaS architectures**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
