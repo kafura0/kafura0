@@ -25,6 +25,49 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Featured Projects
 
-**Languages**
+### ⚙️ Automation Workflows (AaaS Vision)
+> Building automation systems for businesses
+
+- Data pipelines
+- Trigger-based workflows
+- Scalable architecture ideas (multi-tenant)
+
+---
+
+## 🧩 Current Mission
+
+> Building a **Data + AI SaaS platform** that helps businesses:
+- Understand their data
+- Automate operations
+- Make smarter decisions
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kafura0&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kafura0&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 Open to: Internships | Freelance | Collaborations
+- 📫 Reach out for:
+  - AI projects
+  - Data analytics work
+  - Automation systems
+
+---
+
+## ⚡ Motto
+
+> "Improving business efficiency using data and automation"
+
+---
+
+⭐️ *If you like what I’m building, follow along — this is just the beginning.*
